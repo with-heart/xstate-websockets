@@ -20,7 +20,7 @@
     "client",
     "xstate"
   ],
-  "author": "with-heart <with.heart+git@pm.me",
+  "author": "with-heart <with.heart+git@pm.me>",
   "repository": "https://github.com/with-heart/xstate-websockets",
   "bugs": "https://github.com/with-heart/xstate-websockets/issues",
   "license": "MIT"
