@@ -1,0 +1,17 @@
+{
+  "name": "@with-heart/xstate-websocket-client",
+  "version": "0.0.0",
+  "description": "WebSocket client built with XState",
+  "scripts": {},
+  "keywords": [
+    "websocket",
+    "websockets",
+    "sockets",
+    "client",
+    "xstate"
+  ],
+  "author": "with-heart <with.heart+git@pm.me>",
+  "license": "MIT",
+  "repository": "https://github.com/with-heart/xstate-websockets/blob/main/client/README.md",
+  "bugs": "https://github.com/with-heart/xstate-websockets/issues"
+}
