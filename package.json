@@ -1,0 +1,16 @@
+{
+  "name": "xstate-websockets",
+  "private": true,
+  "description": "WebSocket server and client packages built with XState",
+  "scripts": {},
+  "keywords": [
+    "websocket",
+    "websockets",
+    "sockets",
+    "server",
+    "client",
+    "xstate"
+  ],
+  "author": "with-heart <with.heart+git@pm.me",
+  "license": "MIT"
+}
